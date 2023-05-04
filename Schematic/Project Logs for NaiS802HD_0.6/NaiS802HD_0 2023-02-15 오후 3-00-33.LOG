@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R57-1
+Added Component: Designator=FB11(LS-1608)
+Added Pin To Net: NetName=1V2 Pin=FB11-1
+Added Pin To Net: NetName=LX_1V2 Pin=FB11-2

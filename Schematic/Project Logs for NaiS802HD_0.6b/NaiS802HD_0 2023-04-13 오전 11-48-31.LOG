@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=1V2 Pin=FB11-1
+Removed Pin From Net: NetName=LX_1V2 Pin=FB11-2
+Change Component DesignItemId : Designator=FB8 Old DesignItemId=220R//NI New DesignItemId=220R
+Change Component Comment : Designator=FB8 Old Comment=220R//NI New Comment=220R
+Added Component: Designator=TP3(TP_0.8_SMD)
+Added Pin To Net: NetName=USB_OTG_ID Pin=TP3-1

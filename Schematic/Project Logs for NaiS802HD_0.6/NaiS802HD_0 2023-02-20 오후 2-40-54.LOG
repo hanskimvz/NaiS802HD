@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=R41 Old DesignItemId=1K New DesignItemId=2.2K
+Change Component DesignItemId : Designator=C4 Old DesignItemId=22uF-2012-6.3V New DesignItemId=22uF-6.3V
+Change Component DesignItemId : Designator=C5 Old DesignItemId=22uF-2012-6.3V New DesignItemId=22uF-6.3V
+Change Component DesignItemId : Designator=R67 Old DesignItemId=33 New DesignItemId=22
+Change Component Comment : Designator=R41 Old Comment=1K New Comment=2.2K
+Change Component Comment : Designator=C4 Old Comment=22uF-2012-6.3V New Comment=22uF-6.3V
+Change Component Comment : Designator=C5 Old Comment=22uF-2012-6.3V New Comment=22uF-6.3V
+Change Component Comment : Designator=R67 Old Comment=33 New Comment=22

@@ -1,0 +1,9 @@
+Added Component: Designator=U19(UTQFN-1.8¡¿1.8-12L)
+Added Pin To Net: NetName=+3.3V Pin=U19-1
+Added Pin To Net: NetName=+1.8V Pin=U19-2
+Added Pin To Net: NetName=ETH_RST Pin=U19-3
+Added Pin To Net: NetName=ETH_INTB Pin=U19-4
+Added Pin To Net: NetName=GND Pin=U19-7
+Added Pin To Net: NetName=N21833189 Pin=U19-8
+Added Pin To Net: NetName=INT_N Pin=U19-11
+Added Pin To Net: NetName=ETH_RST Pin=U19-12

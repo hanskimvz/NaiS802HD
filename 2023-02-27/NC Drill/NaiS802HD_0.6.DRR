@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: NaiS802HD_0.6.PcbDoc   2023-02-27  ¿ÀÀü 10:48:23
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : NaiS802HD_0.6.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.25mm (9.842mil)        Round          347              806.16 mm (31.74 Inch)
+T2        0.6mm (23.622mil)        Round          4                136.88 mm (5.39 Inch)
+T3        1mm (39.37mil)           Round          4                40.24 mm (1.58 Inch)
+T4        2.2mm (86.614mil)        Round          6                154.60 mm (6.09 Inch)
+T5        0.8mm (31.496mil)        Round          2         NPTH   2.22 mm (0.09 Inch)
+---------------------------------------------------------------------------
+Totals                                            363              1140.10 mm (44.89 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

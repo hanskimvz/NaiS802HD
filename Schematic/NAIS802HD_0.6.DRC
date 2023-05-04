@@ -1,0 +1,198 @@
+Date and Time : 02/13/23 16:31:42
+
+--------------------------------------------------
+Checking Schematic: K510-CRB-V1_2-B_3
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections 3V3_IO127 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 22.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections 3V3_IO126 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 25.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D9 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 160.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD_RST 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 91.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO74 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 132.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D11 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 147.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections TOUCH_RST 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 96.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_RSTN 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 88.90) 
+WARNING(ORCAP-1600): Net has fewer than two connections TOUCH_INT 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 109.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO82 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections BT_RST_IN 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 99.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO67 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 121.92) 
+WARNING(ORCAP-1600): Net has fewer than two connections QSPI_NAND_CS 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 68.58) 
+WARNING(ORCAP-1600): Net has fewer than two connections BOOT_CTL0 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 137.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections BT_WAKE_IN 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 114.30) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_HREF 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 144.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_D1P 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 119.38) 
+WARNING(ORCAP-1600): Net has fewer than two connections DACIN_C 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 91.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D8 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 160.02) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D12 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 152.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D1 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 154.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D10 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 162.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_D2P 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 134.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO106 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 50.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections QSPI_NAND_IO3 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 78.74) 
+WARNING(ORCAP-1600): Net has fewer than two connections ADCOUT_C 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 93.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D3 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 139.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_PCLK 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 149.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_CSI_CLK1_DP 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 134.62) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_D0N 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 109.22) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D4 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 144.78) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D2 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 154.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO107 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 53.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO93 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 96.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_D0P 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 111.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections WIFI_WAKE_OUT 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 101.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO73 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 129.54) 
+WARNING(ORCAP-1600): Net has fewer than two connections MMC1_D3 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 45.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_CSI_CLK1_DN 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 132.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections KEY_2 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 106.68) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D7 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 142.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB_OTG_DP 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 60.96) 
+WARNING(ORCAP-1600): Net has fewer than two connections QSPI_NAND_CLK 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 71.12) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_CLKP 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 127.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_D3N 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 139.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIC_DATA_PDM 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 38.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections BT_WAKE_OUT 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 116.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections MMC1_D0 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 53.34) 
+WARNING(ORCAP-1600): Net has fewer than two connections USB_OTG_DN 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 63.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO96 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 91.44) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_D2N 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 132.08) 
+WARNING(ORCAP-1600): Net has fewer than two connections 3V3_IO114 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 50.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections LCD_EN 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 93.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections MMC1_CMD 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 43.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_D3P 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 142.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO92 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 93.98) 
+WARNING(ORCAP-1600): Net has fewer than two connections MMC1_CLK 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 40.64) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_VSYNC 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 142.24) 
+WARNING(ORCAP-1600): Net has fewer than two connections QSPI_NAND_IO0 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 76.20) 
+WARNING(ORCAP-1600): Net has fewer than two connections 3V3_IO125 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 27.94) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_D1N 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 116.84) 
+WARNING(ORCAP-1600): Net has fewer than two connections FS_C 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 96.52) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIC_SCLK_PDM 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 45.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D13 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 149.86) 
+WARNING(ORCAP-1600): Net has fewer than two connections QSPI_NAND_IO2 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 81.28) 
+WARNING(ORCAP-1600): Net has fewer than two connections MMC1_D1 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 50.80) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D5 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 157.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D6 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 157.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections BCLK_C 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 99.06) 
+WARNING(ORCAP-1600): Net has fewer than two connections 3V3_IO124 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 30.48) 
+WARNING(ORCAP-1600): Net has fewer than two connections BT_UART_RX 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 45.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D0 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 152.40) 
+WARNING(ORCAP-1600): Net has fewer than two connections HDMI_INT 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 66.04) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D14 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 162.56) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO104 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 55.88) 
+WARNING(ORCAP-1600): Net has fewer than two connections TOUCH_I2C_SCL 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 101.60) 
+WARNING(ORCAP-1600): Net has fewer than two connections QSPI_NAND_IO1 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 73.66) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO95 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 86.36) 
+WARNING(ORCAP-1600): Net has fewer than two connections HP_INSERT_DET 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 137.16) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO72 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 127.00) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO105 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 58.42) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO94 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 83.82) 
+WARNING(ORCAP-1600): Net has fewer than two connections BT_UART_TX 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (347.98, 48.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections TOUCH_I2C_SDA 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 104.14) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO68 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 124.46) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_SWITCH_SEL 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 63.50) 
+WARNING(ORCAP-1600): Net has fewer than two connections MMC1_D2 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 48.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_DEN 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 147.32) 
+WARNING(ORCAP-1600): Net has fewer than two connections DVP_D15 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 139.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections WIFI_EN 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (86.36, 111.76) 
+WARNING(ORCAP-1600): Net has fewer than two connections 3V3_IO115 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (139.70, 48.26) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO119 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 45.72) 
+WARNING(ORCAP-1600): Net has fewer than two connections 1V8_IO118 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 43.18) 
+WARNING(ORCAP-1600): Net has fewer than two connections MIPI_DSI_CLKN 
+                    K510-CRB-V1_2-B_3, 03-CONNECTOR  (281.94, 124.46) 
+
+Checking For Unconnected Bus Nets

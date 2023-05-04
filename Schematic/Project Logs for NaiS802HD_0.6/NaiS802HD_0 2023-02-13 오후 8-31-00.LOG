@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=J1 Old Footprint= New Footprint=BTB2X50-050-F-SMD
+Change Component Footprint: Designator=L1 Old Footprint=CDRH73 New Footprint=CDRH5D18NP
+Change Component Footprint: Designator=C8 Old Footprint=CS-2012 New Footprint=CS-1005
+Change Component Comment : Designator=R41 Old Comment=4.7K New Comment=10K
+Change Component Comment : Designator=R47 Old Comment=4.7K New Comment=10K
+Change Component Comment : Designator=J6 Old Comment=6pin 2.54mm New Comment=6pin 2.54mm//NI
+Change Component Comment : Designator=R12 Old Comment=16.2K New Comment=45K_1%
+Change Component Comment : Designator=C4 Old Comment=22uF-6.3V New Comment=22uF-2012-6.3V
+Change Component Comment : Designator=L1 Old Comment=CDRH73-150 New Comment=CDRH5D18NP-100NC-10uH
+Change Component Comment : Designator=U11 Old Comment=TPS79301DBVR New Comment=SGM2036-1.2YN5G/TR
+Added Component: Designator=MH5(VA-2.2)
+Added Component: Designator=MH6(VA-2.2)
+Added Component: Designator=MH7(VA-2.2)
+Added Component: Designator=MH8(VA-2.2)
+Added Pin To Net: NetName=GND Pin=MH5-1
+Added Pin To Net: NetName=GND Pin=MH6-1
+Added Pin To Net: NetName=GND Pin=MH7-1
+Added Pin To Net: NetName=GND Pin=MH8-1

@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=MIPI_CSI_D0_N Pin=U17-1
+Removed Pin From Net: NetName=MIPI_CSI_D0_P Pin=U17-2
+Removed Pin From Net: NetName=MIPI_CSI_D1_N Pin=U17-4
+Removed Pin From Net: NetName=MIPI_CSI_D1_P Pin=U17-5
+Removed Pin From Net: NetName=GND Pin=U17-6
+Removed Pin From Net: NetName=MIPI_CSI_CLK0_DN Pin=U17-7
+Removed Pin From Net: NetName=MIPI_CSI_CLK0_DP Pin=U17-8
+Removed Pin From Net: NetName=GND Pin=U17-9
+Removed Pin From Net: NetName=MIPI_CSI_D2_N Pin=U17-10
+Removed Pin From Net: NetName=MIPI_CSI_D2_P Pin=U17-11
+Removed Pin From Net: NetName=GND Pin=U17-12
+Removed Pin From Net: NetName=MIPI_CSI_D3_N Pin=U17-13
+Removed Pin From Net: NetName=MIPI_CSI_D3_P Pin=U17-14
+Removed Pin From Net: NetName=2V8 Pin=U17-16
+Removed Pin From Net: NetName=GND Pin=U17-17
+Removed Pin From Net: NetName=MIPI_CSI_I2C_SCL Pin=U17-19
+Removed Pin From Net: NetName=MIPI_CSI_I2C_SDA Pin=U17-20
+Removed Pin From Net: NetName=N21823039 Pin=U17-21
+Removed Pin From Net: NetName=GND Pin=U17-22
+Removed Pin From Net: NetName=MCLK Pin=U17-23
+Removed Pin From Net: NetName=GND Pin=U17-24
+Removed Pin From Net: NetName=1V8 Pin=U17-25
+Removed Pin From Net: NetName=GND Pin=U17-26
+Removed Pin From Net: NetName=1V2 Pin=U17-27
+Removed Pin From Net: NetName=GND Pin=U17-28
+Change Component DesignItemId : Designator=C26 Old DesignItemId=18pF New DesignItemId=0.1uF
+Change Component DesignItemId : Designator=R56 Old DesignItemId=36.5K, 1% New DesignItemId=10K
+Change Component DesignItemId : Designator=U17 Old DesignItemId=IMX219PLCC New DesignItemId=IMX219PLCC32
+Change Component Footprint: Designator=U17 Old Footprint=IMX219PLCC New Footprint=IMX219-PLCC32
+Change Component Comment : Designator=C26 Old Comment=18pF New Comment=0.1uF
+Change Component Comment : Designator=R56 Old Comment=36.5K, 1% New Comment=10K
+Change Component Comment : Designator=U17 Old Comment=IMX219PLCC New Comment=IMX219PLCC32
+Added Component: Designator=FB12(LS-1608)
+Added Component: Designator=R18(RS-1005)
+Added Component: Designator=R19(RS-1005)
+Added Component: Designator=R20(RS-1005)
+Added Component: Designator=R21(RS-1005)
+Added Pin To Net: NetName=2V8 Pin=FB12-2
+Added Pin To Net: NetName=2V8 Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=U17-1
+Added Pin To Net: NetName=1V8 Pin=U17-2
+Added Pin To Net: NetName=1V2 Pin=U17-4
+Added Pin To Net: NetName=MIPI_CSI_D0_N Pin=U17-5
+Added Pin To Net: NetName=MIPI_CSI_D0_P Pin=U17-6
+Added Pin To Net: NetName=GND Pin=U17-7
+Added Pin To Net: NetName=MIPI_CSI_D1_N Pin=U17-8
+Added Pin To Net: NetName=MIPI_CSI_D1_P Pin=U17-9
+Added Pin To Net: NetName=GND Pin=U17-10
+Added Pin To Net: NetName=MIPI_CSI_CLK0_DN Pin=U17-11
+Added Pin To Net: NetName=MIPI_CSI_CLK0_DP Pin=U17-12
+Added Pin To Net: NetName=MIPI_CSI_D3_P Pin=U17-13
+Added Pin To Net: NetName=MIPI_CSI_D3_N Pin=U17-14
+Added Pin To Net: NetName=MIPI_CSI_D2_P Pin=U17-16
+Added Pin To Net: NetName=MIPI_CSI_D2_N Pin=U17-17
+Added Pin To Net: NetName=GND Pin=U17-18
+Added Pin To Net: NetName=GND Pin=U17-19
+Added Pin To Net: NetName=MIPI_CSI_I2C_SDA Pin=U17-21
+Added Pin To Net: NetName=MIPI_CSI_I2C_SCL Pin=U17-22
+Added Pin To Net: NetName=GND Pin=U17-25
+Added Pin To Net: NetName=2V8 Pin=U17-26
+Added Pin To Net: NetName=GND Pin=U17-27
+Added Pin To Net: NetName=N21823039 Pin=U17-28
+Added Pin To Net: NetName=GND Pin=U17-31
+Added Pin To Net: NetName=MCLK Pin=U17-32
+Added Pin To Net: NetName=N21846940 Pin=FB12-1
+Added Pin To Net: NetName=N21846940 Pin=U17-20
+Added Net: Name=N21846940
+Added Pin To Net: NetName=N21847187 Pin=R18-2
+Added Pin To Net: NetName=N21847187 Pin=U17-24
+Added Net: Name=N21847187
+Added Pin To Net: NetName=N21847468 Pin=R19-1
+Added Pin To Net: NetName=N21847468 Pin=U17-30
+Added Net: Name=N21847468
+Added Pin To Net: NetName=N21847471 Pin=R20-1
+Added Pin To Net: NetName=N21847471 Pin=U17-29
+Added Net: Name=N21847471
+Added Pin To Net: NetName=N21847474 Pin=R21-1
+Added Pin To Net: NetName=N21847474 Pin=U17-23
+Added Net: Name=N21847474

@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=SD2_DET Pin=R70-1
+Removed Pin From Net: NetName=+3.3V Pin=R70-2
+Removed Pin From Net: NetName=SD2_CLK Pin=R71-1
+Removed Pin From Net: NetName=+3.3V Pin=R71-2
+Removed Pin From Net: NetName=SD2_CMD Pin=R72-1
+Removed Pin From Net: NetName=+3.3V Pin=R72-2
+Removed Pin From Net: NetName=SD2_DATA3 Pin=R73-1
+Removed Pin From Net: NetName=+3.3V Pin=R73-2
+Removed Pin From Net: NetName=SD2_DATA2 Pin=R74-1
+Removed Pin From Net: NetName=+3.3V Pin=R74-2
+Removed Pin From Net: NetName=SD2_DATA1 Pin=R75-1
+Removed Pin From Net: NetName=+3.3V Pin=R75-2
+Removed Pin From Net: NetName=SD2_DATA0 Pin=R76-1
+Removed Pin From Net: NetName=+3.3V Pin=R76-2
+Added Component: Designator=RP1(RP-4_1005)
+Added Component: Designator=RP2(RP-4_1005)
+Added Pin To Net: NetName=SD2_CMD Pin=RP1-1
+Added Pin To Net: NetName=+3.3V Pin=RP1-2
+Added Pin To Net: NetName=SD2_CLK Pin=RP1-3
+Added Pin To Net: NetName=+3.3V Pin=RP1-4
+Added Pin To Net: NetName=+3.3V Pin=RP1-6
+Added Pin To Net: NetName=SD2_DET Pin=RP1-7
+Added Pin To Net: NetName=+3.3V Pin=RP1-8
+Added Pin To Net: NetName=SD2_DATA0 Pin=RP2-1
+Added Pin To Net: NetName=+3.3V Pin=RP2-2
+Added Pin To Net: NetName=SD2_DATA1 Pin=RP2-3
+Added Pin To Net: NetName=+3.3V Pin=RP2-4
+Added Pin To Net: NetName=SD2_DATA2 Pin=RP2-5
+Added Pin To Net: NetName=+3.3V Pin=RP2-6
+Added Pin To Net: NetName=SD2_DATA3 Pin=RP2-7
+Added Pin To Net: NetName=+3.3V Pin=RP2-8

@@ -1,0 +1,24 @@
+Change Component DesignItemId : Designator=R68 Old DesignItemId=1_F New DesignItemId=1, 1%
+Change Component DesignItemId : Designator=L4 Old DesignItemId=2.2uH/2.6A New DesignItemId=CDRH2D14NP-2R2NC
+Change Component DesignItemId : Designator=R32 Old DesignItemId=2.49K/1% New DesignItemId=2.49K, 1%
+Change Component DesignItemId : Designator=R41 Old DesignItemId=2K New DesignItemId=1K
+Change Component DesignItemId : Designator=R1 Old DesignItemId=2K New DesignItemId=2.2K
+Change Component DesignItemId : Designator=R2 Old DesignItemId=2K New DesignItemId=2.2K
+Change Component DesignItemId : Designator=R70 Old DesignItemId=10.2K/1% New DesignItemId=10K
+Change Component DesignItemId : Designator=R17 Old DesignItemId=10K_1% New DesignItemId=10K, 1%
+Change Component DesignItemId : Designator=R66 Old DesignItemId=30.1K_F New DesignItemId=10K
+Change Component DesignItemId : Designator=R56 Old DesignItemId=36.5K_F New DesignItemId=36.5K, 1%
+Change Component DesignItemId : Designator=R12 Old DesignItemId=45K_1% New DesignItemId=45K, 1%
+Change Component DesignItemId : Designator=R49 Old DesignItemId=NC New DesignItemId=0//NI
+Change Component Comment : Designator=R68 Old Comment=1_F New Comment=1, 1%
+Change Component Comment : Designator=L4 Old Comment=2.2uH/2.6A New Comment=CDRH2D14NP-2R2NC
+Change Component Comment : Designator=R32 Old Comment=2.49K/1% New Comment=2.49K, 1%
+Change Component Comment : Designator=R41 Old Comment=2K New Comment=1K
+Change Component Comment : Designator=R1 Old Comment=2K New Comment=2.2K
+Change Component Comment : Designator=R2 Old Comment=2K New Comment=2.2K
+Change Component Comment : Designator=R70 Old Comment=10.2K/1% New Comment=10K
+Change Component Comment : Designator=R17 Old Comment=10K_1% New Comment=10K, 1%
+Change Component Comment : Designator=R66 Old Comment=30.1K_F New Comment=10K
+Change Component Comment : Designator=R56 Old Comment=36.5K_F New Comment=36.5K, 1%
+Change Component Comment : Designator=R12 Old Comment=45K_1% New Comment=45K, 1%
+Change Component Comment : Designator=R49 Old Comment=NC New Comment=0//NI

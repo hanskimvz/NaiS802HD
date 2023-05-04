@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=SW1-3
+Removed Pin From Net: NetName=GND Pin=SW1-4
+Change Component Footprint: Designator=SW1 Old Footprint=SWOP-2 New Footprint=SWS-CTT-1131U

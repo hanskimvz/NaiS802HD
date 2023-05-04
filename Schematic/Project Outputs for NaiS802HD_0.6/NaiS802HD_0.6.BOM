@@ -1,0 +1,83 @@
+Bill of Material for 
+On 2023-02-27 at ¿ÀÀü 10:51:21
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               CS-1005         27    BC1, BC4, BC5, BC8, BC9, BC10                      
+                                           BC12, BC13, BC14, BC15, BC16
+                                           BC21, BC26, BC27, C1, C8, C9
+                                           C19, C20, C21, C22, C26, C35
+                                           C39, C40, C41, C42
+ 0.1uF               CS-1608          2    BC2, BC28                                         
+ 0//NI               RS-1005          1    R49                                               
+ 0                   RS-1005          1    R7                                                
+ 1, 1%               RS-1608          1    R68                                               
+ 100K                RS-1005          1    R11                                               
+ 10K, 1%             RS-1005          1    R17                                               
+ 10K//NI             RS-1005          3    R19, R20, R21                                     
+ 10K                 RS-1005         15    R3, R4, R5, R6, R18, R46, R56                      
+                                           R66, R70, R71, R72, R73, R74
+                                           R75, R76
+ 10nF                CS-1005          3    C3, C27, C31                                      
+ 10uF                CS-1608          4    BC6, BC7, BC11, BC17                              
+ 10uH                LS-2012          1    L5                                                
+ 112J-TXAR-R         CON_u-SD         1    J10                                               
+ 12505WR-08          12505WR-8P       1    J3                                                
+ 12505WR-4P          12505WS-4P       1    J5                                                
+ 12pF                CS-1005          2    C17, C18                                          
+ 150K, 1%            RS-1005          2    R13, R58                                          
+ 1nF/NI              CS-1005          1    C2                                                
+ 1uF                 CS-1005          8    BC18, BC20, BC24, BC25, C23                       
+                                           C24, C25, C32
+ 1uF                 CS-1608          2    BC3, BC29                                         
+ 2.2K                RS-1005          4    R1, R2, R16, R41                                  
+ 2.49K, 1%           RS-1005          1    R32                                               
+ 22                  RS-1005          2    R55, R67                                          
+ 220nF               CS-1005          1    C34                                               
+ 220R//NI            LS-1608          6    FB7, FB8, FB9, FB10, FB11                         
+                                           FB12
+ 220R                LS-1608          5    FB1, FB2, FB3, FB4, FB6                           
+ 22pF                CS-1005          2    C6, C28                                           
+ 22uF                CS-1608          1    C36                                               
+ 22uF                CTS-3216         1    BC19                                              
+ 22uF-6.3V           CS-2012          4    C4, C5, C7, C38                                   
+ 24Mhz-SX32-1.8V     SX-32            1    OSC1                                              
+ 25MHz-S20P-SX32     SX-32            1    Y1                                                
+ 3.3nF               CS-1005          1    C10                                               
+ 32.768KHz-MC-146-7pF XTS-MC-146       1    Y2                                                
+ 33.3K, 1%           RS-1005          1    R15                                               
+ 4.04pi              VA-2.2           4    MH1, MH2, MH3, MH4                                
+ 4.7K                RS-1005         16    R8, R9, R10, R27, R28, R29                        
+                                           R30, R31, R34, R36, R38, R42
+                                           R48, R50, R53, R54
+ 4.7uF-25V-3216      C3216            2    C11, C33                                          
+ 40.2K               RS-1005          1    R44                                               
+ 45K, 1%             RS-1005          1    R12                                               
+ 6pin 2.54mm//NI     TP_HEADER_6      1    J6                                                
+ 75                  RS-1005          2    R51, R52                                          
+ 75K,1%              RS-1005          1    R61                                               
+ AME5253-AEVADJ      SOT-23-5P        2    U1, U18                                           
+ BAT54A              SOT-23           1    D3                                                
+ CDRH2D14NP-2R2NC    CDRH2D14NP       3    L2, L4, L6                                        
+ CDRH5D18NP-100NC-10uH CDRH5D18NP       1    L1                                                
+ CN048S-0005//SMD_BAT_HOLDER BAT-CN048S       1    BAT1                                              
+ DFLS140             PowerDI123       1    D4                                                
+ DS1339U-33          TSSOP8-M         1    U16                                               
+ ESD5B5.0ST1G        SOD-523          2    TVS1, TVS2                                        
+ IMX219PLCC32        IMX219-PLCC32    1    U17                                               
+ LB208-G100P-BOR     BTB2X50-050-M-SMD    1    J2                                                
+ LB222-G100S-BOR     BTB2X50-050-F-SMD    1    J1                                                
+ LED3030             LED-3030         4    LD1, LD2, LD3, LD4                                
+ Lens Holder         LENS_HOLDER_C_SQUARE    1    J7                                                
+ MMBT6427            SOT-23           2    Q1, Q2                                            
+ MP1482              SOIC-8           1    U13                                               
+ PH-2PSM//NI         PH-2PSM          1    J4                                                
+ RB051L-40           SOD-106          1    D2                                                
+ SGM2036-1.2YN5G/TR  SOT-23-5P        1    U11                                               
+ SGM2036-2.8YN5G/TR  SOT-23-5P        1    U8                                                
+ SGM4574YUQN12G/TR   UTQFN-1.8¡¿1.8-12L    1    U19                                               
+ SW PB               SWOP-2           1    SW1                                               
+ TPS                 TP_0.8_SMD       4    TP1, TP2, TP3, TP4                                
+ TPS61165DBVR        SOT23-6          1    U12                                               
+ TRC41604NL          TRC41604NL       1    T1                                                
+ YT8521SH            QFN48_6x6        1    U4                                                

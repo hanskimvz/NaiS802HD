@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SD2_DATA3 Pin=RP2-1
+Removed Pin From Net: NetName=SD2_DATA2 Pin=RP2-3
+Removed Pin From Net: NetName=SD2_DATA1 Pin=RP2-5
+Removed Pin From Net: NetName=SD2_DATA0 Pin=RP2-7
+Added Pin To Net: NetName=SD2_DATA1 Pin=RP2-1
+Added Pin To Net: NetName=SD2_DATA0 Pin=RP2-3
+Added Pin To Net: NetName=SD2_DATA3 Pin=RP2-5
+Added Pin To Net: NetName=SD2_DATA2 Pin=RP2-7

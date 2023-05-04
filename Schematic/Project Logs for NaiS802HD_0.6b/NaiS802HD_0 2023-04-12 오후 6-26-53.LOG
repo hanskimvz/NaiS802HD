@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=+3.3V Pin=FB9-1
+Removed Pin From Net: NetName=3.3VCORE Pin=FB9-2
+Removed Pin From Net: NetName=+1.8V Pin=FB10-1
+Removed Pin From Net: NetName=1.8VCORE Pin=FB10-2
+Removed Pin From Net: NetName=MIPI_CSI_D3_P Pin=U17-13
+Removed Pin From Net: NetName=MIPI_CSI_D3_N Pin=U17-14
+Removed Pin From Net: NetName=MIPI_CSI_D2_P Pin=U17-16
+Removed Pin From Net: NetName=MIPI_CSI_D2_N Pin=U17-17

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=ETH_RST Pin=U19-12
+Added Pin To Net: NetName=RESET_N Pin=U19-12

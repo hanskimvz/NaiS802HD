@@ -1,0 +1,6 @@
+Added Component: Designator=R77(RS-1005)
+Added Component: Designator=R78(RS-1005)
+Added Pin To Net: NetName=MIPI_CSI_I2C_SCL Pin=R77-1
+Added Pin To Net: NetName=DVP_D0 Pin=R77-2
+Added Pin To Net: NetName=MIPI_CSI_I2C_SDA Pin=R78-1
+Added Pin To Net: NetName=DVP_D1 Pin=R78-2
