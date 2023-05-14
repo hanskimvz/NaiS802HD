@@ -1,194 +1,184 @@
-Altium Designer Pick and Place Locations
-D:\BACKUP\Hardwares\NaiS802HD\Schematic\2023-05-14\Pick Place\Pick Place for NaiS802HD_0.7.txt
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
 
-========================================================================================================================
-File Design Information:
+TP3        TP_0.8_SMD             26.1mm       -13.3mm        26.1mm       -13.3mm        26.1mm       -13.3mm  B         90.00 TPS            
+RP2        RP-4_1005             -18.8mm         5.3mm       -18.8mm         5.3mm    -17.9999mm       5.825mm  B        180.00 10K            
+RP1        RP-4_1005             -16.2mm         5.3mm       -16.2mm         5.3mm    -15.3999mm       5.825mm  B        180.00 10K            
+R21        RS-1005                 0.5mm         1.2mm         0.5mm         1.2mm        0.05mm         1.2mm  T        360.00 0              
+R20        RS-1005                 4.2mm        -5.3mm         4.2mm        -5.3mm         4.2mm       -4.85mm  T        270.00 0//NI          
+R19        RS-1005                 2.5mm        -5.7mm         2.5mm        -5.7mm        2.05mm        -5.7mm  T        360.00 10K            
+Y2         XTS-MC-146            -12.5mm       -15.9mm       -12.5mm       -15.9mm      -15.65mm      -16.32mm  T        360.00 32.768KHz-MC-146-7pF
+U18        SOT-23-5P               2.2mm     16.7799mm         2.2mm     16.7799mm        3.15mm     15.4299mm  B        180.00 AME5253-AEVADJ 
+U17        LGA-128_SONY              0mm           0mm           0mm           0mm         5.5mm          -5mm  B         90.00 IMX385LQR-C    
+U13        SOIC-8              -19.414mm      14.234mm       -19.4mm        14.2mm      -16.62mm     16.1391mm  B        270.00 MP1482         
+U1         SOT-23-5P             9.873mm     16.7799mm       9.873mm     16.7799mm      10.823mm     15.4299mm  B        180.00 AME5253-AEVADJ 
+R68        RS-1608               -14.3mm        -3.1mm       -14.3mm        -3.1mm       -14.3mm     -3.9001mm  T         90.00 1, 1%          
+R61        RS-1005              5.1156mm      17.923mm      5.1156mm      17.923mm      5.5656mm      17.923mm  B        180.00 75K,1%         
+R58        RS-1005              5.1156mm     16.7031mm      5.1156mm     16.7031mm      4.6656mm     16.7031mm  B        360.00 150K, 1%       
+R17        RS-1005               -21.1mm        10.9mm       -21.1mm        10.9mm      -20.65mm        10.9mm  B        180.00 10K, 1%        
+R13        RS-1005              12.773mm     16.7031mm      12.773mm     16.7031mm      12.323mm     16.7031mm  B          0.00 150K, 1%       
+LD4        LED-3030           -19.8612mm          -2mm    -19.8612mm          -2mm    -19.8612mm        -0.7mm  B        270.00 LED3030        
+LD3        LED-3030           -19.8612mm         1.8mm    -19.8612mm         1.8mm    -19.8612mm         3.1mm  B        270.00 LED3030        
+LD2        LED-3030           -16.4612mm         1.8mm    -16.4612mm         1.8mm    -16.4612mm         0.5mm  B         90.00 LED3030        
+LD1        LED-3030           -16.4612mm          -2mm    -16.4612mm          -2mm    -16.4612mm        -3.3mm  B         90.00 LED3030        
+L6         CDRH2D14NP              2.4mm        12.5mm         2.4mm        12.5mm         1.3mm        13.6mm  B        180.00 CDRH2D14NP-2R2NC
+J7         LENS_HOLDER_B_SMALL           0mm        -0.1mm           0mm        -0.1mm         -11mm        -0.1mm  B          0.00 Lens Holder    
+FB4        LS-1608                12.8mm     -5.3494mm        12.8mm     -5.3494mm      13.562mm     -5.3494mm  B        180.00 220R           
+D4         PowerDI123         -15.2125mm    -12.6717mm       -14.9mm    -12.6717mm      -16.75mm    -12.6717mm  T        180.00 DFLS140        
+C38        CS-2012                 5.7mm      12.462mm         5.7mm      12.462mm         5.7mm     11.3825mm  B         90.00 22uF-6.3V      
+C28        CS-1005              5.1156mm      15.483mm      5.1156mm      15.483mm      5.5656mm      15.483mm  B        180.00 22pF           
+C11        C3216                 -10.8mm       -16.3mm       -10.8mm       -16.3mm       -10.8mm       -14.7mm  B        270.00 4.7uF-25V-3216 
+C5         CS-2012              -4.625mm     14.3648mm      -4.625mm     14.3648mm      -4.625mm     15.4443mm  B        270.00 22uF-6.3V      
+BC29       CS-1608                 4.8mm        11.7mm         4.8mm        11.7mm      5.6001mm        11.7mm  T        180.00 1uF            
+BC28       CS-1608                 0.5mm       16.15mm         0.5mm       16.15mm         0.5mm     15.3499mm  T         90.00 0.1uF          
+BC21       CS-1005                14.4mm         9.8mm        14.4mm         9.8mm        14.4mm        9.35mm  T         90.00 0.1uF          
+R15        RS-1005              12.773mm      17.923mm      12.773mm      17.923mm      13.223mm      17.923mm  B        180.00 33.3K, 1%      
+L1         CDRH5D18NP         -10.7081mm     15.0546mm    -10.7081mm     15.0546mm    -12.7831mm     15.0546mm  B        180.00 CDRH5D18NP-100NC-10uH
+FB8        LS-1608                 2.8mm         9.3mm         2.8mm         9.3mm         2.8mm       8.538mm  T         90.00 220R           
+R34        RS-1005                14.8mm         2.4mm        14.8mm         2.4mm        14.8mm        2.85mm  B        270.00 4.7K           
+R38        RS-1005                18.8mm         1.7mm        18.8mm         1.7mm        18.8mm        2.15mm  B        270.00 4.7K           
+R36        RS-1005                  20mm         1.7mm          20mm         1.7mm          20mm        2.15mm  B        270.00 4.7K           
+R31        RS-1005                26.7mm        -0.8mm        26.7mm        -0.8mm        26.7mm       -0.35mm  B        270.00 4.7K           
+R29        RS-1005                27.9mm        -0.8mm        27.9mm        -0.8mm        27.9mm       -0.35mm  B        270.00 4.7K           
+R30        RS-1005                23.6mm        -0.6mm        23.6mm        -0.6mm        23.6mm       -0.15mm  B        270.00 4.7K           
+J5         12505WS-4P             19.5mm    -15.6084mm        19.5mm    -15.6084mm      17.625mm    -14.0584mm  B        180.00 12505WR-4P     
+BAT1       BAT-CN048S            -18.9mm       -14.7mm       -18.9mm       -14.7mm     -13.925mm       -14.7mm  B         90.00 CN048S-0005//SMD_BAT_HOLDER
+BC1        CS-1005              14.127mm         -17mm      14.127mm         -17mm      14.127mm      -16.55mm  T        270.00 0.1uF          
+BC2        CS-1608               8.173mm       16.15mm       8.173mm       16.15mm       8.173mm     15.3499mm  T         90.00 0.1uF          
+BC3        CS-1608                12.4mm        13.5mm        12.4mm        13.5mm     11.5999mm        13.5mm  T        360.00 1uF            
+BC4        CS-1005             16.6632mm     -2.5529mm     16.6632mm     -2.5529mm     16.6632mm     -2.1029mm  B        270.00 0.1uF          
+BC5        CS-1005                15.5mm     -2.5494mm        15.5mm     -2.5494mm        15.5mm     -2.0994mm  B        270.00 0.1uF          
+BC6        CS-1608                16.8mm        10.2mm        16.8mm        10.2mm     15.9999mm        10.2mm  T        360.00 10uF           
+BC7        CS-1608                13.3mm    -10.2505mm        13.3mm    -10.2505mm        13.3mm     -9.4504mm  B        270.00 10uF           
+BC8        CS-1005             18.8178mm     -7.0494mm     18.8178mm     -7.0494mm     18.8178mm     -7.4994mm  B         90.00 0.1uF          
+BC9        CS-1005                13.9mm     -7.9494mm        13.9mm     -7.9494mm        13.9mm     -8.3994mm  B         90.00 0.1uF          
+BC10       CS-1005                21.3mm         1.7mm        21.3mm         1.7mm        21.3mm        1.25mm  B         90.00 0.1uF          
+BC11       CS-1608              20.381mm       1.827mm      20.381mm       1.827mm      20.381mm      1.0269mm  T         90.00 10uF           
+BC12       CS-1005                18.8mm     -3.5494mm        18.8mm     -3.5494mm       19.25mm     -3.5494mm  B        180.00 0.1uF          
+BC13       CS-1005                  16mm         2.4mm          16mm         2.4mm          16mm        1.95mm  B         90.00 0.1uF          
+BC14       CS-1005                11.4mm        -6.7mm        11.4mm        -6.7mm       11.85mm        -6.7mm  B        180.00 0.1uF          
+BC15       CS-1005             15.0678mm     -7.9494mm     15.0678mm     -7.9494mm     15.0678mm     -8.3994mm  B         90.00 0.1uF          
+BC16       CS-1005             17.0678mm     -7.9494mm     17.0678mm     -7.9494mm     17.0678mm     -8.3994mm  B         90.00 0.1uF          
+BC17       CS-1608                20.9mm      5.1366mm        20.9mm      5.1366mm     20.0999mm      5.1366mm  T        360.00 10uF           
+BC18       CS-1005                -9.3mm        -3.3mm        -9.3mm        -3.3mm       -9.75mm        -3.3mm  T        360.00 1uF            
+BC19       CTS-3216             6.6962mm       7.727mm      6.6962mm       7.727mm      7.9662mm       7.727mm  T        180.00 22uF           
+BC20       CS-1005                 7.6mm         3.3mm         7.6mm         3.3mm        8.05mm         3.3mm  T        180.00 1uF            
+BC24       CS-1005                 3.2mm         7.2mm         3.2mm         7.2mm        3.65mm         7.2mm  T        180.00 1uF            
+BC25       CS-1005                 0.7mm         8.5mm         0.7mm         8.5mm         0.7mm        8.95mm  T        270.00 1uF            
+BC26       CS-1005                 0.7mm        11.3mm         0.7mm        11.3mm         0.7mm       10.85mm  T         90.00 0.1uF          
+BC27       CS-1005                 -23mm       -17.7mm         -23mm       -17.7mm         -23mm      -18.15mm  T         90.00 0.1uF          
+C1         CS-1005                21.4mm         6.8mm        21.4mm         6.8mm       20.95mm         6.8mm  B        360.00 0.1uF          
+C2         CS-1005                26.4mm         4.6mm        26.4mm         4.6mm        26.4mm        5.05mm  B        270.00 1nF/NI         
+C3         CS-1005            -15.0854mm     17.4853mm    -15.0854mm     17.4853mm    -15.5354mm     17.4853mm  B        360.00 10nF           
+C4         CS-2012             -2.2189mm     14.3648mm     -2.2189mm     14.3648mm     -2.2189mm     15.4443mm  B        270.00 22uF-6.3V      
+C6         CS-1005              12.773mm      15.483mm      12.773mm      15.483mm      13.223mm      15.483mm  B        180.00 22pF           
+C7         CS-2012                  16mm        11.6mm          16mm        11.6mm     14.9205mm        11.6mm  B        360.00 22uF-6.3V      
+C8         CS-1005            -17.7562mm     10.8887mm    -17.7562mm     10.8887mm    -18.2062mm     10.8887mm  B        360.00 0.1uF          
+C9         CS-1005               -22.2mm     17.5642mm       -22.2mm     17.5642mm      -21.75mm     17.5642mm  B        180.00 0.1uF          
+C10        CS-1005               -24.4mm        13.6mm       -24.4mm        13.6mm      -23.95mm        13.6mm  B        180.00 3.3nF          
+C17        CS-1005                10.9mm          -5mm        10.9mm          -5mm        10.9mm       -4.55mm  T        270.00 12pF           
+C18        CS-1005                10.9mm          -7mm        10.9mm          -7mm        10.9mm       -7.45mm  T         90.00 12pF           
+C19        CS-1005             19.1428mm     -10.292mm     19.1428mm     -10.292mm     19.1428mm      -9.842mm  T        270.00 0.1uF          
+C20        CS-1005                -7.5mm        -9.3mm        -7.5mm        -9.3mm       -7.05mm        -9.3mm  T        180.00 0.1uF          
+C21        CS-1005                 9.6mm       -17.8mm         9.6mm       -17.8mm        9.15mm       -17.8mm  T        360.00 0.1uF          
+C22        CS-1005                -9.7mm       -17.8mm        -9.7mm       -17.8mm       -9.25mm       -17.8mm  T        180.00 0.1uF          
+C23        CS-1005                 3.5mm          -1mm         3.5mm          -1mm        3.05mm          -1mm  T        360.00 1uF            
+C24        CS-1005                 3.5mm           3mm         3.5mm           3mm        3.05mm           3mm  T        360.00 220nF          
+C25        CS-1005                 3.5mm           1mm         3.5mm           1mm        3.05mm           1mm  T        360.00 1uF            
+C26        CS-1005                0.95mm      -4.473mm        0.95mm      -4.473mm        0.95mm      -4.023mm  T        270.00 0.1uF          
+C31        CS-1005                  -3mm         7.5mm          -3mm         7.5mm       -3.45mm         7.5mm  T        360.00 10nF           
+C32        CS-1005            -19.1903mm     -5.3866mm    -19.1903mm     -5.3866mm    -18.7403mm     -5.3866mm  T        180.00 1uF            
+C33        C3216                  -9.4mm       -12.7mm        -9.4mm       -12.7mm         -11mm       -12.7mm  T        360.00 4.7uF-25V-3216 
+C34        CS-1005               -11.3mm        -6.7mm       -11.3mm        -6.7mm      -10.85mm        -6.7mm  T        180.00 220nF          
+C35        CS-1005               -11.2mm           8mm       -11.2mm           8mm       -11.2mm        7.55mm  B         90.00 0.1uF          
+C36        CS-1608                 -14mm         8.3mm         -14mm         8.3mm         -14mm      7.4999mm  B         90.00 22uF           
+D2         SOD-106                -8.7mm       -12.1mm        -8.7mm       -12.1mm        -6.5mm       -12.1mm  B        180.00 RB051L-40      
+D3         SOT-23              16.9076mm     16.9051mm        16.9mm        16.9mm     18.0544mm     17.8589mm  B        180.00 BAT54A         
+FB1        LS-1608                15.2mm        11.8mm        15.2mm        11.8mm      14.438mm        11.8mm  T        360.00 220R           
+FB2        LS-1608                11.7mm       -10.2mm        11.7mm       -10.2mm        11.7mm     -10.962mm  B         90.00 220R           
+FB3        LS-1608                17.4mm         1.2mm        17.4mm         1.2mm        17.4mm       1.962mm  B        270.00 220R           
+J1         BTB2X50-050-F-SMD       26.37mm           0mm       26.37mm           0mm       24.47mm      -12.25mm  T        180.00 LB222-G100S-BOR
+J2         BTB2X50-050-M-SMD      -26.37mm           0mm      -26.37mm           0mm      -27.62mm       -13.2mm  T        180.00 LB208-G100P-BOR
+J3         12505WR-8P                0mm    -15.7084mm           0mm    -15.7084mm      -4.375mm    -14.2584mm  B        180.00 12505WR-08     
+J4         PH-2PSM                21.7mm          17mm        21.7mm          17mm       22.97mm          17mm  B         90.00 PH-2PSM//NI    
+J6         TP_HEADER_6              19mm       -17.7mm          19mm       -17.7mm      15.875mm       -17.7mm  T        360.00 6pin 2.54mm//NI
+J10        CON_U-SD           -11.6083mm      9.6681mm    -13.8659mm      4.4118mm    -13.8659mm      4.4118mm  T          0.00 112J-TXAR-R    
+L2         CDRH2D14NP               10mm        12.5mm          10mm        12.5mm         8.9mm        13.6mm  B        180.00 CDRH2D14NP-2R2NC
+L4         CDRH2D14NP             17.2mm         3.7mm        17.2mm         3.7mm        18.3mm         4.8mm  T        360.00 CDRH2D14NP-2R2NC
+L5         LS-2012               -17.8mm       -10.1mm       -17.8mm       -10.1mm    -16.7205mm       -10.1mm  T        180.00 10uH           
+MH1        VA-2.2                -27.3mm        16.3mm       -27.3mm        16.3mm       -27.3mm        16.3mm  T          0.00 4.04pi         
+MH2        VA-2.2                -27.3mm       -16.3mm       -27.3mm       -16.3mm       -27.3mm       -16.3mm  T          0.00 4.04pi         
+MH3        VA-2.2                 27.3mm       -16.3mm        27.3mm       -16.3mm        27.3mm       -16.3mm  T          0.00 4.04pi         
+MH4        VA-2.2                 27.3mm        16.3mm        27.3mm        16.3mm        27.3mm        16.3mm  T          0.00 4.04pi         
+OSC1       SX-32                  -6.2mm        -3.9mm        -6.2mm        -3.9mm        -7.3mm       -4.65mm  T        180.00 24Mhz-SX32-1.8V
+Q1         SOT-23              19.0076mm     13.9949mm          19mm          14mm     20.1544mm     13.0412mm  T        180.00 MMBT6427       
+Q2         SOT-23               9.5076mm     10.9949mm         9.5mm          11mm     10.6544mm     10.0412mm  T        180.00 MMBT6427       
+R1         RS-1005                16.1mm        14.5mm        16.1mm        14.5mm        16.1mm       14.05mm  T         90.00 2.2K           
+R2         RS-1005                 8.7mm        13.6mm         8.7mm        13.6mm        8.25mm        13.6mm  T        360.00 2.2K           
+R3         RS-1005                13.2mm         5.2mm        13.2mm         5.2mm        13.2mm        5.65mm  T        270.00 10K            
+R4         RS-1005                20.6mm        11.5mm        20.6mm        11.5mm       20.15mm        11.5mm  T        360.00 10K            
+R5         RS-1005                11.7mm         5.2mm        11.7mm         5.2mm        11.7mm        5.65mm  T        270.00 10K            
+R6         RS-1005                27.2mm         2.1mm        27.2mm         2.1mm       27.65mm         2.1mm  B        180.00 10K            
+R7         RS-1005                27.7mm         4.6mm        27.7mm         4.6mm        27.7mm        4.15mm  B         90.00 0              
+R8         RS-1005              16.527mm     -15.073mm      16.527mm     -15.073mm      16.527mm     -14.623mm  T        270.00 4.7K           
+R9         RS-1005              14.127mm     -15.073mm      14.127mm     -15.073mm      14.127mm     -14.623mm  T        270.00 4.7K           
+R10        RS-1005              15.327mm     -15.073mm      15.327mm     -15.073mm      15.327mm     -14.623mm  T        270.00 4.7K           
+R11        RS-1005            -19.6503mm     17.5642mm    -19.6503mm     17.5642mm    -19.2003mm     17.5642mm  B        180.00 100K           
+R12        RS-1005               -22.7mm        10.5mm       -22.7mm        10.5mm       -22.7mm       10.05mm  B         90.00 45K, 1%        
+R16        RS-1005             -24.645mm       11.75mm     -24.645mm       11.75mm     -24.645mm        11.3mm  B         90.00 2.2K           
+R27        RS-1005                  23mm        -7.9mm          23mm        -7.9mm       23.45mm        -7.9mm  B        180.00 4.7K           
+R28        RS-1005                  23mm        -6.7mm          23mm        -6.7mm       23.45mm        -6.7mm  B        180.00 4.7K           
+R32        RS-1005             11.8356mm     -8.8494mm     11.8356mm     -8.8494mm     11.8356mm     -9.2994mm  T         90.00 2.49K, 1%      
+R41        RS-1005                  19mm       -12.1mm          19mm       -12.1mm       19.45mm       -12.1mm  T        180.00 2.2K           
+R42        RS-1005                22.4mm        -0.6mm        22.4mm        -0.6mm        22.4mm       -1.05mm  B         90.00 4.7K           
+R44        RS-1005             19.0158mm      -9.911mm     19.0158mm      -9.911mm     18.5658mm      -9.911mm  B        360.00 40.2K          
+R46        RS-1005                  19mm     -11.084mm          19mm     -11.084mm       19.45mm     -11.084mm  B        180.00 10K            
+R48        RS-1005                10.5mm         5.2mm        10.5mm         5.2mm        10.5mm        5.65mm  T        270.00 4.7K           
+R49        RS-1005                 8.3mm       -11.3mm         8.3mm       -11.3mm        8.75mm       -11.3mm  B        180.00 0//NI          
+R50        RS-1005                14.4mm         5.2mm        14.4mm         5.2mm        14.4mm        4.75mm  T         90.00 4.7K           
+R51        RS-1005              7.6453mm       -17.8mm      7.6453mm       -17.8mm      8.0953mm       -17.8mm  T        180.00 75             
+R52        RS-1005             -7.7553mm       -17.8mm     -7.7553mm       -17.8mm     -8.2053mm       -17.8mm  T        360.00 75             
+R53        RS-1005                 0.5mm           0mm         0.5mm           0mm        0.05mm           0mm  T        360.00 4.7K           
+R54        RS-1005                 0.5mm        -1.2mm         0.5mm        -1.2mm        0.05mm        -1.2mm  T        360.00 4.7K           
+R55        RS-1005                -2.6mm        -2.2mm        -2.6mm        -2.2mm       -3.05mm        -2.2mm  T        360.00 22             
+R56        RS-1005                 0.5mm          -3mm         0.5mm          -3mm        0.95mm          -3mm  T        180.00 10K            
+R66        RS-1005             -19.175mm          -8mm     -19.175mm          -8mm     -19.625mm          -8mm  T        360.00 10K            
+R67        RS-1005             -19.175mm        -6.7mm     -19.175mm        -6.7mm     -18.725mm        -6.7mm  T        180.00 22             
+SW1        SWS-CTT-1131U       26.3778mm      9.8431mm     26.3778mm      9.8431mm     26.3778mm      6.8431mm  B         90.00 SW PB          
+T1         TRC41604NL             -0.1mm       -12.6mm        -0.1mm       -12.6mm      4.3363mm      -8.155mm  T        180.00 TRC41604NL     
+TP1        TP_0.8_SMD           -28.17mm      -11.75mm      -28.17mm      -11.75mm      -28.17mm      -11.75mm  B         90.00 TPS            
+TP2        TP_0.8_SMD           -28.17mm       -8.75mm      -28.17mm       -8.75mm      -28.17mm       -8.75mm  B         90.00 TPS            
+TP4        TP_0.8_SMD              -22mm       -9.75mm         -22mm       -9.75mm         -22mm       -9.75mm  B         90.00 TPS            
+TVS1       SOD-523               -12.5mm         8.2mm       -12.5mm         8.2mm       -12.5mm        7.49mm  B        270.00 ESD5B5.0ST1G   
+TVS2       SOD-523                -6.9mm         2.4mm        -6.9mm         2.4mm       -6.19mm         2.4mm  T        360.00 ESD5B5.0ST1G   
+U4         QFN48_6x6           16.0678mm     -5.1494mm     16.0678mm     -5.1494mm     13.8678mm     -8.1494mm  T         90.00 YT8521SH       
+U11        SOT-23-5P              -1.6mm        10.3mm        -1.6mm        10.3mm       -0.65mm       11.65mm  T        180.00 SGM2036-1.2YN5G/TR
+U12        SOT23-6               -15.6mm        -6.7mm       -15.6mm        -6.7mm       -16.9mm       -5.75mm  T         90.00 TPS61165DBVR   
+U16        TSSOP8-M              -20.9mm     -15.225mm       -20.9mm     -15.225mm      -18.75mm       -16.2mm  T         90.00 DS1339U-33     
+Y1         SX-32                   8.5mm        -5.5mm         8.5mm        -5.5mm        7.75mm        -4.4mm  T         90.00 25MHz-S20P-SX32
+C39        CS-1005               9.008mm       -16.2mm       9.008mm       -16.2mm       9.008mm      -15.75mm  T        270.00 0.1uF          
+C40        CS-1005              10.208mm       -16.2mm      10.208mm       -16.2mm      10.208mm      -15.75mm  T        270.00 0.1uF          
+C41        CS-1005              11.408mm       -16.2mm      11.408mm       -16.2mm      11.408mm      -15.75mm  T        270.00 0.1uF          
+C42        CS-1005              12.608mm       -16.2mm      12.608mm       -16.2mm      12.608mm      -15.75mm  T        270.00 0.1uF          
+U19        UTQFN-1.8¡¿1.8-12L        22.6mm       -10.7mm        22.6mm       -10.7mm        22.4mm        -9.8mm  B        270.00 SGM4574YUQN12G/TR
+BC30       CS-1005                -2.3mm        -3.7mm        -2.3mm        -3.7mm        -2.3mm       -4.15mm  T         90.00 1uF            
+BC31       CS-1005                -2.4mm           5mm        -2.4mm           5mm        -2.4mm        4.55mm  T         90.00 1uF            
+BC32       CS-1005                 0.5mm           3mm         0.5mm           3mm         0.5mm        3.45mm  T        270.00 1uF            
+BC33       CS-1005                 0.5mm           5mm         0.5mm           5mm         0.5mm        4.55mm  T         90.00 1uF            
+BC34       CS-1005                -6.1mm        -1.3mm        -6.1mm        -1.3mm        -6.1mm       -0.85mm  T        270.00 1uF            
+BC35       CS-1005                 2.5mm          -3mm         2.5mm          -3mm         2.5mm       -3.45mm  T         90.00 1uF            
+BC36       CS-1005                -1.1mm           5mm        -1.1mm           5mm        -1.1mm        4.55mm  T         90.00 1uF            
+BC37       CS-1005                -3.6mm         0.2mm        -3.6mm         0.2mm       -4.05mm         0.2mm  T        360.00 1uF            
+BC38       CS-1005                -1.8mm        -0.5mm        -1.8mm        -0.5mm        -1.8mm       -0.95mm  T         90.00 1uF            
+BC39       CS-1005                -3.6mm         1.4mm        -3.6mm         1.4mm       -4.05mm         1.4mm  T        360.00 1uF            
+BC40       CS-1005                -3.6mm          -1mm        -3.6mm          -1mm       -4.05mm          -1mm  T        360.00 1uF            
+BC41       CS-1005                 5.8mm         1.2mm         5.8mm         1.2mm        5.35mm         1.2mm  T        360.00 1uF            
+BC42       CS-1005                 5.5mm         3.6mm         5.5mm         3.6mm        5.05mm         3.6mm  T        360.00 0.1uF          
+BC43       CS-1005              5.5375mm         2.4mm      5.5375mm         2.4mm      5.0875mm         2.4mm  T        360.00 10uF           
+BC44       CS-1005                 8.2mm         4.9mm         8.2mm         4.9mm         8.2mm        4.45mm  T         90.00 0.1uF          
+BC45       CS-1005                 7.6mm        -1.4mm         7.6mm        -1.4mm        8.05mm        -1.4mm  T        180.00 10uF           
+BC46       CS-1005                 7.6mm         2.1mm         7.6mm         2.1mm        8.05mm         2.1mm  T        180.00 0.1uF          
+BC47       CS-1005                   7mm         4.9mm           7mm         4.9mm           7mm        4.45mm  T         90.00 10uF           
+BC48       CS-1005                 7.6mm        -2.6mm         7.6mm        -2.6mm        8.05mm        -2.6mm  T        180.00 0.1uF          
+C43        CS-1005                 7.6mm           0mm         7.6mm           0mm        8.05mm           0mm  T        180.00 1uF            
+FB13       LS-1608                  13mm         9.4mm          13mm         9.4mm          13mm      10.162mm  T        270.00 220R           
 
-Date:       14-05-23
-Time:       14:59
-Revision:   81580b44e438415506cdda179e9784fef65fadd1
-Variant:    No variations
-Units used: mm
-
-Designator Comment                     Layer       Footprint           Center-X(mm) Center-Y(mm) Rotation Description 
-FB13       220R                        TopLayer    LS-1608             13.0000      9.4000       270      ""          
-C43        1uF                         TopLayer    CS-1005             7.6000       0.0000       180      ""          
-BC48       0.1uF                       TopLayer    CS-1005             7.6000       -2.6000      180      ""          
-BC47       10uF                        TopLayer    CS-1005             7.0000       4.9000       90       ""          
-BC46       0.1uF                       TopLayer    CS-1005             7.6000       2.1000       180      ""          
-BC45       10uF                        TopLayer    CS-1005             7.6000       -1.4000      180      ""          
-BC44       0.1uF                       TopLayer    CS-1005             8.2000       4.9000       90       ""          
-BC43       10uF                        TopLayer    CS-1005             5.5375       2.4000       360      ""          
-BC42       0.1uF                       TopLayer    CS-1005             5.5000       3.6000       360      ""          
-BC41       1uF                         TopLayer    CS-1005             5.8000       1.2000       360      ""          
-BC40       1uF                         TopLayer    CS-1005             -3.6000      -1.0000      360      ""          
-BC39       1uF                         TopLayer    CS-1005             -3.6000      1.4000       360      ""          
-BC38       1uF                         TopLayer    CS-1005             -1.8000      -0.5000      90       ""          
-BC37       1uF                         TopLayer    CS-1005             -3.6000      0.2000       360      ""          
-BC36       1uF                         TopLayer    CS-1005             -1.1000      5.0000       90       ""          
-BC35       1uF                         TopLayer    CS-1005             2.5000       -3.0000      90       ""          
-BC34       1uF                         TopLayer    CS-1005             -6.1000      -1.3000      270      ""          
-BC33       1uF                         TopLayer    CS-1005             0.5000       5.0000       90       ""          
-BC32       1uF                         TopLayer    CS-1005             0.5000       3.0000       270      ""          
-BC31       1uF                         TopLayer    CS-1005             -2.4000      5.0000       90       ""          
-BC30       1uF                         TopLayer    CS-1005             -2.3000      -3.7000      90       ""          
-U19        SGM4574YUQN12G/TR           BottomLayer UTQFN-1.8¡¿1.8-12L   22.6000      -10.7000     270      ""          
-C42        0.1uF                       TopLayer    CS-1005             12.6080      -16.2000     270      ""          
-C41        0.1uF                       TopLayer    CS-1005             11.4080      -16.2000     270      ""          
-C40        0.1uF                       TopLayer    CS-1005             10.2080      -16.2000     270      ""          
-C39        0.1uF                       TopLayer    CS-1005             9.0080       -16.2000     270      ""          
-Y1         25MHz-S20P-SX32             TopLayer    SX-32               8.5000       -5.5000      90       ""          
-U16        DS1339U-33                  TopLayer    TSSOP8-M            -20.9000     -15.2250     90       ""          
-U12        TPS61165DBVR                TopLayer    SOT23-6             -15.6000     -6.7000      90       ""          
-U11        SGM2036-1.2YN5G/TR          TopLayer    SOT-23-5P           -1.6000      10.3000      180      ""          
-U4         YT8521SH                    TopLayer    QFN48_6x6           16.0678      -5.1495      90       ""          
-TVS2       ESD5B5.0ST1G                TopLayer    SOD-523             -6.9000      2.4000       360      ""          
-TVS1       ESD5B5.0ST1G                BottomLayer SOD-523             -12.5000     8.2000       270      ""          
-TP4        TPS                         BottomLayer TP_0.8_SMD          -22.0000     -9.7500      90       ""          
-TP2        TPS                         BottomLayer TP_0.8_SMD          -28.1700     -8.7500      90       ""          
-TP1        TPS                         BottomLayer TP_0.8_SMD          -28.1700     -11.7500     90       ""          
-T1         TRC41604NL                  TopLayer    TRC41604NL          -0.1000      -12.6000     180      ""          
-SW1        "SW PB"                     BottomLayer SWS-CTT-1131U       26.3778      9.8431       90       ""          
-R67        22                          TopLayer    RS-1005             -19.1750     -6.7000      180      ""          
-R66        10K                         TopLayer    RS-1005             -19.1750     -8.0000      360      ""          
-R56        10K                         TopLayer    RS-1005             0.5000       -3.0000      180      ""          
-R55        22                          TopLayer    RS-1005             -2.6000      -2.2000      360      ""          
-R54        4.7K                        TopLayer    RS-1005             0.5000       -1.2000      360      ""          
-R53        4.7K                        TopLayer    RS-1005             0.5000       0.0000       360      ""          
-R52        75                          TopLayer    RS-1005             -7.7553      -17.8000     360      ""          
-R51        75                          TopLayer    RS-1005             7.6453       -17.8000     180      ""          
-R50        4.7K                        TopLayer    RS-1005             14.4000      5.2000       90       ""          
-R49        0//NI                       BottomLayer RS-1005             8.3000       -11.3000     180      ""          
-R48        4.7K                        TopLayer    RS-1005             10.5000      5.2000       270      ""          
-R46        10K                         BottomLayer RS-1005             19.0000      -11.0840     180      ""          
-R44        40.2K                       BottomLayer RS-1005             19.0158      -9.9110      360      ""          
-R42        4.7K                        BottomLayer RS-1005             22.4000      -0.6000      90       ""          
-R41        2.2K                        TopLayer    RS-1005             19.0000      -12.1000     180      ""          
-R32        "2.49K, 1%"                 TopLayer    RS-1005             11.8356      -8.8494      90       ""          
-R28        4.7K                        BottomLayer RS-1005             23.0000      -6.7000      180      ""          
-R27        4.7K                        BottomLayer RS-1005             23.0000      -7.9000      180      ""          
-R16        2.2K                        BottomLayer RS-1005             -24.6450     11.7500      90       ""          
-R12        "45K, 1%"                   BottomLayer RS-1005             -22.7000     10.5000      90       ""          
-R11        100K                        BottomLayer RS-1005             -19.6503     17.5642      180      ""          
-R10        4.7K                        TopLayer    RS-1005             15.3270      -15.0730     270      ""          
-R9         4.7K                        TopLayer    RS-1005             14.1270      -15.0730     270      ""          
-R8         4.7K                        TopLayer    RS-1005             16.5270      -15.0730     270      ""          
-R7         0                           BottomLayer RS-1005             27.7000      4.6000       90       ""          
-R6         10K                         BottomLayer RS-1005             27.2000      2.1000       180      ""          
-R5         10K                         TopLayer    RS-1005             11.7000      5.2000       270      ""          
-R4         10K                         TopLayer    RS-1005             20.6000      11.5000      360      ""          
-R3         10K                         TopLayer    RS-1005             13.2000      5.2000       270      ""          
-R2         2.2K                        TopLayer    RS-1005             8.7000       13.6000      360      ""          
-R1         2.2K                        TopLayer    RS-1005             16.1000      14.5000      90       ""          
-Q2         MMBT6427                    TopLayer    SOT-23              9.5076       10.9949      180      ""          
-Q1         MMBT6427                    TopLayer    SOT-23              19.0076      13.9949      180      ""          
-OSC1       24Mhz-SX32-1.8V             TopLayer    SX-32               -6.2000      -3.9000      180      ""          
-MH4        4.04pi                      TopLayer    VA-2.2              27.3000      16.3000      0        ""          
-MH3        4.04pi                      TopLayer    VA-2.2              27.3000      -16.3000     0        ""          
-MH2        4.04pi                      TopLayer    VA-2.2              -27.3000     -16.3000     0        ""          
-MH1        4.04pi                      TopLayer    VA-2.2              -27.3000     16.3000      0        ""          
-L5         10uH                        TopLayer    LS-2012             -17.8000     -10.1000     180      ""          
-L4         CDRH2D14NP-2R2NC            TopLayer    CDRH2D14NP          17.2000      3.7000       360      ""          
-L2         CDRH2D14NP-2R2NC            BottomLayer CDRH2D14NP          10.0000      12.5000      180      ""          
-J10        112J-TXAR-R                 TopLayer    CON_U-SD            -11.6083     9.6681       0        ""          
-J6         "6pin 2.54mm//NI"           TopLayer    TP_HEADER_6         19.0000      -17.7000     360      ""          
-J4         PH-2PSM//NI                 BottomLayer PH-2PSM             21.7000      17.0000      90       ""          
-J3         12505WR-08                  BottomLayer 12505WR-8P          0.0000       -15.7084     180      ""          
-J2         LB208-G100P-BOR             TopLayer    BTB2X50-050-M-SMD   -26.3700     0.0000       180      ""          
-J1         LB222-G100S-BOR             TopLayer    BTB2X50-050-F-SMD   26.3700      0.0000       180      ""          
-FB3        220R                        BottomLayer LS-1608             17.4000      1.2000       270      ""          
-FB2        220R                        BottomLayer LS-1608             11.7000      -10.2000     90       ""          
-FB1        220R                        TopLayer    LS-1608             15.2000      11.8000      360      ""          
-D3         BAT54A                      BottomLayer SOT-23              16.9076      16.9051      180      ""          
-D2         RB051L-40                   BottomLayer SOD-106             -8.7000      -12.1000     180      ""          
-C36        22uF                        BottomLayer CS-1608             -14.0000     8.3000       90       ""          
-C35        0.1uF                       BottomLayer CS-1005             -11.2000     8.0000       90       ""          
-C34        220nF                       TopLayer    CS-1005             -11.3000     -6.7000      180      ""          
-C33        4.7uF-25V-3216              TopLayer    C3216               -9.4000      -12.7000     360      ""          
-C32        1uF                         TopLayer    CS-1005             -19.1903     -5.3866      180      ""          
-C31        10nF                        TopLayer    CS-1005             -3.0000      7.5000       360      ""          
-C26        0.1uF                       TopLayer    CS-1005             0.9500       -4.4730      270      ""          
-C25        1uF                         TopLayer    CS-1005             3.5000       1.0000       360      ""          
-C24        220nF                       TopLayer    CS-1005             3.5000       3.0000       360      ""          
-C23        1uF                         TopLayer    CS-1005             3.5000       -1.0000      360      ""          
-C22        0.1uF                       TopLayer    CS-1005             -9.7000      -17.8000     180      ""          
-C21        0.1uF                       TopLayer    CS-1005             9.6000       -17.8000     360      ""          
-C20        0.1uF                       TopLayer    CS-1005             -7.5000      -9.3000      180      ""          
-C19        0.1uF                       TopLayer    CS-1005             19.1428      -10.2920     270      ""          
-C18        12pF                        TopLayer    CS-1005             10.9000      -7.0000      90       ""          
-C17        12pF                        TopLayer    CS-1005             10.9000      -5.0000      270      ""          
-C10        3.3nF                       BottomLayer CS-1005             -24.4000     13.6000      180      ""          
-C9         0.1uF                       BottomLayer CS-1005             -22.2000     17.5642      180      ""          
-C8         0.1uF                       BottomLayer CS-1005             -17.7562     10.8887      360      ""          
-C7         22uF-6.3V                   BottomLayer CS-2012             16.0000      11.6000      360      ""          
-C6         22pF                        BottomLayer CS-1005             12.7730      15.4830      180      ""          
-C4         22uF-6.3V                   BottomLayer CS-2012             -2.2189      14.3648      270      ""          
-C3         10nF                        BottomLayer CS-1005             -15.0854     17.4853      360      ""          
-C2         1nF/NI                      BottomLayer CS-1005             26.4000      4.6000       270      ""          
-C1         0.1uF                       BottomLayer CS-1005             21.4000      6.8000       360      ""          
-BC27       0.1uF                       TopLayer    CS-1005             -23.0000     -17.7000     90       ""          
-BC26       0.1uF                       TopLayer    CS-1005             0.7000       11.3000      90       ""          
-BC25       1uF                         TopLayer    CS-1005             0.7000       8.5000       270      ""          
-BC24       1uF                         TopLayer    CS-1005             3.2000       7.2000       180      ""          
-BC20       1uF                         TopLayer    CS-1005             7.6000       3.3000       180      ""          
-BC19       22uF                        TopLayer    CTS-3216            6.6962       7.7270       180      ""          
-BC18       1uF                         TopLayer    CS-1005             -9.3000      -3.3000      360      ""          
-BC17       10uF                        TopLayer    CS-1608             20.9000      5.1366       360      ""          
-BC16       0.1uF                       BottomLayer CS-1005             17.0678      -7.9494      90       ""          
-BC15       0.1uF                       BottomLayer CS-1005             15.0678      -7.9494      90       ""          
-BC14       0.1uF                       BottomLayer CS-1005             11.4000      -6.7000      180      ""          
-BC13       0.1uF                       BottomLayer CS-1005             16.0000      2.4000       90       ""          
-BC12       0.1uF                       BottomLayer CS-1005             18.8000      -3.5494      180      ""          
-BC11       10uF                        TopLayer    CS-1608             20.3810      1.8270       90       ""          
-BC10       0.1uF                       BottomLayer CS-1005             21.3000      1.7000       90       ""          
-BC9        0.1uF                       BottomLayer CS-1005             13.9000      -7.9494      90       ""          
-BC8        0.1uF                       BottomLayer CS-1005             18.8178      -7.0494      90       ""          
-BC7        10uF                        BottomLayer CS-1608             13.3000      -10.2505     270      ""          
-BC6        10uF                        TopLayer    CS-1608             16.8000      10.2000      360      ""          
-BC5        0.1uF                       BottomLayer CS-1005             15.5000      -2.5494      270      ""          
-BC4        0.1uF                       BottomLayer CS-1005             16.6632      -2.5529      270      ""          
-BC3        1uF                         TopLayer    CS-1608             12.4000      13.5000      360      ""          
-BC2        0.1uF                       TopLayer    CS-1608             8.1730       16.1500      90       ""          
-BC1        0.1uF                       TopLayer    CS-1005             14.1270      -17.0000     270      ""          
-BAT1       CN048S-0005//SMD_BAT_HOLDER BottomLayer BAT-CN048S          -18.9000     -14.7000     90       ""          
-J5         12505WR-4P                  BottomLayer 12505WS-4P          19.5000      -15.6084     180      ""          
-R30        4.7K                        BottomLayer RS-1005             23.6000      -0.6000      270      ""          
-R29        4.7K                        BottomLayer RS-1005             27.9000      -0.8000      270      ""          
-R31        4.7K                        BottomLayer RS-1005             26.7000      -0.8000      270      ""          
-R36        4.7K                        BottomLayer RS-1005             20.0000      1.7000       270      ""          
-R38        4.7K                        BottomLayer RS-1005             18.8000      1.7000       270      ""          
-R34        4.7K                        BottomLayer RS-1005             14.8000      2.4000       270      ""          
-FB8        220R                        TopLayer    LS-1608             2.8000       9.3000       90       ""          
-L1         CDRH5D18NP-100NC-10uH       BottomLayer CDRH5D18NP          -10.7081     15.0546      180      ""          
-R15        "33.3K, 1%"                 BottomLayer RS-1005             12.7730      17.9230      180      ""          
-BC21       0.1uF                       TopLayer    CS-1005             14.4000      9.8000       90       ""          
-BC28       0.1uF                       TopLayer    CS-1608             0.5000       16.1500      90       ""          
-BC29       1uF                         TopLayer    CS-1608             4.8000       11.7000      180      ""          
-C5         22uF-6.3V                   BottomLayer CS-2012             -4.6251      14.3648      270      ""          
-C11        4.7uF-25V-3216              BottomLayer C3216               -10.8000     -16.3000     270      ""          
-C28        22pF                        BottomLayer CS-1005             5.1156       15.4830      180      ""          
-C38        22uF-6.3V                   BottomLayer CS-2012             5.7000       12.4620      90       ""          
-D4         DFLS140                     TopLayer    PowerDI123          -15.2125     -12.6717     180      ""          
-FB4        220R                        BottomLayer LS-1608             12.8000      -5.3494      180      ""          
-J7         "Lens Holder"               BottomLayer LENS_HOLDER_B_SMALL 0.0000       -0.1000      0        ""          
-L6         CDRH2D14NP-2R2NC            BottomLayer CDRH2D14NP          2.4000       12.5000      180      ""          
-LD1        LED3030                     BottomLayer LED-3030            -16.4612     -2.0000      90       ""          
-LD2        LED3030                     BottomLayer LED-3030            -16.4612     1.8000       90       ""          
-LD3        LED3030                     BottomLayer LED-3030            -19.8612     1.8000       270      ""          
-LD4        LED3030                     BottomLayer LED-3030            -19.8612     -2.0000      270      ""          
-R13        "150K, 1%"                  BottomLayer RS-1005             12.7730      16.7031      0        ""          
-R17        "10K, 1%"                   BottomLayer RS-1005             -21.1000     10.9000      180      ""          
-R58        "150K, 1%"                  BottomLayer RS-1005             5.1156       16.7031      360      ""          
-R61        75K,1%                      BottomLayer RS-1005             5.1156       17.9230      180      ""          
-R68        "1, 1%"                     TopLayer    RS-1608             -14.3000     -3.1000      90       ""          
-U1         AME5253-AEVADJ              BottomLayer SOT-23-5P           9.8730       16.7799      180      ""          
-U13        MP1482                      BottomLayer SOIC-8              -19.4140     14.2341      270      ""          
-U17        IMX385LQR-C                 BottomLayer LGA-128_SONY        0.0000       0.0000       90       ""          
-U18        AME5253-AEVADJ              BottomLayer SOT-23-5P           2.2000       16.7799      180      ""          
-Y2         32.768KHz-MC-146-7pF        TopLayer    XTS-MC-146          -12.5000     -15.9000     360      ""          
-R19        10K                         TopLayer    RS-1005             2.5000       -5.7000      360      ""          
-R20        0//NI                       TopLayer    RS-1005             4.2000       -5.3000      270      ""          
-R21        0                           TopLayer    RS-1005             0.5000       1.2000       360      ""          
-RP1        10K                         BottomLayer RP-4_1005           -16.2000     5.3000       180      ""          
-RP2        10K                         BottomLayer RP-4_1005           -18.8000     5.3000       180      ""          
-TP3        TPS                         BottomLayer TP_0.8_SMD          26.1000      -13.3000     90       ""          
