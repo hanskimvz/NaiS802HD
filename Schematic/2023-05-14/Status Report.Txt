@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [NaiS802HD_0.7.PcbDoc]
+   Generated File[NaiS802HD_0.7.GTO]
+   Generated File[NaiS802HD_0.7.GTP]
+   Generated File[NaiS802HD_0.7.GTS]
+   Generated File[NaiS802HD_0.7.GTL]
+   Generated File[NaiS802HD_0.7.G1]
+   Generated File[NaiS802HD_0.7.G2]
+   Generated File[NaiS802HD_0.7.GBL]
+   Generated File[NaiS802HD_0.7.EXTREP]
+   Generated File[NaiS802HD_0.7.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At ¿ÀÈÄ 2:59:17 On 2023-05-14
