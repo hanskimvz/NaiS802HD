@@ -71,7 +71,9 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\nais802hd_0.6b.dsn")
       (Path "Design Resources" ".\nais802hd_0.6b.dsn" "K510-CRB-V1_2-B_3")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\nais802hd_0.6b.dsn" "K510-CRB-V1_2-B_3"
+         "06-MIPI_CSI"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -82,8 +84,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1639 0 473")
-        (Scroll "34 0")
-        (Zoom "114")
+        (Scroll "101 33")
+        (Zoom "108")
         (Occurrence "/"))
       (Path "D:\BACKUP\HARDWARES\NAIS802HD\SCHEMATIC\NAIS802HD_0.6B.DSN")
       (Schematic "K510-CRB-V1_2-B_3")
@@ -92,8 +94,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 26 1665 26 499")
-        (Scroll "0 444")
-        (Zoom "100")
+        (Scroll "-349 0")
+        (Zoom "54")
         (Occurrence "/"))
       (Path "D:\BACKUP\HARDWARES\NAIS802HD\SCHEMATIC\NAIS802HD_0.6B.DSN")
       (Schematic "K510-CRB-V1_2-B_3")
@@ -102,7 +104,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 52 1691 52 525")
-        (Scroll "0 494")
+        (Scroll "0 74")
         (Zoom "100")
         (Occurrence "/"))
       (Path "D:\BACKUP\HARDWARES\NAIS802HD\SCHEMATIC\NAIS802HD_0.6B.DSN")
@@ -122,7 +124,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 104 1743 104 577")
-        (Scroll "34 428")
+        (Scroll "0 11")
         (Zoom "114")
         (Occurrence "/"))
       (Path "D:\BACKUP\HARDWARES\NAIS802HD\SCHEMATIC\NAIS802HD_0.6B.DSN")
@@ -134,4 +136,5 @@
         (Placement "44 0 1 -1 -1 -8 -31 78 1717 78 551"))
       (Path "d:\backup\hardwares\nais802hd\schematic\nais802hd_0.6b.drc")
       (Scroll "33")))
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "H"))

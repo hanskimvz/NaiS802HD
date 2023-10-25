@@ -73,17 +73,21 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\nais802hd_0.7.dsn")
-      (Path "Design Resources" ".\nais802hd_0.7.dsn" "K510-CRB-V1_2-B_3")
+      (Path "Design Resources"
+         "d:\backup\hardwares\nais802hd\schematic\nais802hd_0.7.dsn")
+      (Path "Design Resources"
+         "d:\backup\hardwares\nais802hd\schematic\nais802hd_0.7.dsn"
+         "K510-CRB-V1_2-B_3")
       (Path "Outputs")
-      (Select "Design Resources" ".\nais802hd_0.7.dsn" "K510-CRB-V1_2-B_3"
-         "07-SD_card_RTC"))
-    (HierarchyView)
+      (Select "Design Resources"))
+    (HierarchyView
+      (Path "K510-CRB-V1_2-B_3")
+      (Select "K510-CRB-V1_2-B_3" "R12 (45K, 1%)"))
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 200 0 434"))
-      (Tab 0))
+      (Tab 1))
     (Doc
       (Type "TextFile")
       (Frame
@@ -103,8 +107,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1743 104 581")
-        (Scroll "0 334")
+        (Placement "44 2 3 -1 -1 -8 -31 104 1743 104 581")
+        (Scroll "-79 130")
         (Zoom "100")
         (Occurrence "/"))
       (Path "D:\BACKUP\HARDWARES\NAIS802HD\SCHEMATIC\NAIS802HD_0.7.DSN")
@@ -123,7 +127,7 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 1795 156 629")
+        (Placement "44 0 1 -1 -1 -8 -31 156 1795 156 629")
         (Scroll "1264 1884")
         (Zoom "400")
         (Occurrence "/"))
